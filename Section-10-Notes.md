@@ -1,0 +1,6 @@
+- [ ] Section 10: Professors Post Type 4 / 5|1hr 3min
+  - [ ] 40. Quick Note About The Next Lesson 1min
+  - [ ] 41. Professors Post Type 19min
+  - [ ] 42. Featured Image (Post Thumbnail) 19min
+  - [ ] 43. Featured Image Sizes & Cropping 9min
+  - [ ] 44. Page Banner Dynamic Background Image 15min
