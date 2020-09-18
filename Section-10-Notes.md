@@ -4,4 +4,4 @@
   - [ ] 42. Featured Image (Post Thumbnail) 19min
   - [ ] 43. Featured Image Sizes & Cropping 9min
   - [ ] 44. Page Banner Dynamic Background Image 15min
-    - Enter-able fields
+    - Enter-able fields (In the Admin Section)
